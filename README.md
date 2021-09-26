@@ -59,9 +59,9 @@ I was in charge of: Team Manager
 
 ### Almos Hero
 Almost Hero is a "Guitar hero" style game developed fully in c++ in 3 weeks.
-![test image size](/images/almosthero.png){:class="img-responsive"}
+
 [Visit the GitHub Page here](https://cutt.ly/8h0o4MY) 
-[![Watch the video](https://prnt.sc/1tq82eu)](https://drive.google.com/file/d/1Ta4XddLz5-i3jpOjDi-DrMpM68JonNuJ/view?usp=sharing)
+[![Watch the video](/images/almosthero.png)](https://drive.google.com/file/d/1Ta4XddLz5-i3jpOjDi-DrMpM68JonNuJ/view?usp=sharing)
 
 
 
@@ -75,7 +75,7 @@ mates)
 [![Watch the video](https://prnt.sc/1tq8a32)](https://cutt.ly/2h0o5U4)
 
 
-
+![test image size](/images/almosthero.png){:class="img-responsive"}
 ## Academic education
 
 ### Bachelor's degree in Video Game Design and Development
