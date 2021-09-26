@@ -101,7 +101,7 @@ mates)
 
 
 
-[![Watch the video](/images/lastresort.png)](https://cutt.ly/2h0o5U4)
+[![Watch the video](images/last resort.png)](https://cutt.ly/2h0o5U4)
 
 [Visit the GitHub Page here](https://cutt.ly/Dh0pqJL) 
 
