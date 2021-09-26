@@ -36,14 +36,15 @@ Technologies or Lince works.
 I was in charge of: Designer and gameplay programmer
 
 [Visit the WebPage here](https://tiesofdestiny.com/) 
-
+[![Watch the video](/images/tiesofdestiny.png)](https://www.youtube.com/watch?v=m5PS3PCTRs0)
 
 
 ### Mercury Engine
 “Mercury Engine” is a c++ programmed game engine using OpenGL and ImGui.
 
+[![Watch the video](/images/mercuryengine.png)](https://www.youtube.com/watch?v=qAw3V35vyvA)
+
 [Visit the GitHub Page here](https://github.com/knela96/Mercury-Engine) 
-[![Watch the video](https://prnt.sc/1tq74dw)](https://www.youtube.com/watch?v=qAw3V35vyvA)
 
 
 
@@ -52,17 +53,21 @@ I was in charge of: Designer and gameplay programmer
 year in a team of 7 programmers. Fully developed in c++ using SDL library.
 I was in charge of: Team Manager
 
+
+Click on the image to access the video
+[![Watch the video](/images/order227.png)](https://www.youtube.com/watch?v=2uebz2vIlOg)
+
 [Visit the GitHub Page here](https://cutt.ly/Dh0o84m) 
-[![Watch the video](https://prnt.sc/1tq7g55)](https://www.youtube.com/watch?v=2uebz2vIlOg)
 
 
 
 ### Almos Hero
 Almost Hero is a "Guitar hero" style game developed fully in c++ in 3 weeks.
 
-[Visit the GitHub Page here](https://cutt.ly/8h0o4MY) 
+Click on the image to access the video
 [![Watch the video](/images/almosthero.png)](https://drive.google.com/file/d/1Ta4XddLz5-i3jpOjDi-DrMpM68JonNuJ/view?usp=sharing)
 
+[Visit the GitHub Page here](https://cutt.ly/8h0o4MY) 
 
 
 ### Last Resort
@@ -72,7 +77,7 @@ I was in charge of Q&A (as a personal responsibility, but programmed the game as
 mates)
 
 [Visit the GitHub Page here](https://cutt.ly/Dh0pqJL) 
-[![Watch the video](https://prnt.sc/1tq8a32)](https://cutt.ly/2h0o5U4)
+[![Watch the video](/images/lastresort.png)](https://cutt.ly/2h0o5U4)
 
 
 ![test image size](/images/almosthero.png){:class="img-responsive"}
