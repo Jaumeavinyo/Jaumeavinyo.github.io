@@ -1,3 +1,5 @@
+Jaume Avinyo: Programmer
+
 ## My objectives
 My intention is to start working as soon as posible in the industry. I'm currently finishing my bachelors degree of video game design and development in the CITM-UPC Barcelona and I'm looking for an internship to finish this stage of my life and start working full time in what I really love doing: Developing videogames.
 
