@@ -1,7 +1,28 @@
-# My Portfolio
+## My objectives
+My intention is to start working as soon as posible in the industry. I'm currently finishing my bachelors degree of video game design and development in the CITM-UPC Barcelona and I'm looking for an internship to finish this stage of my life and start working full time in what I really love doing: Developing videogames.
 
+### Knowledges
+I’ve used and I have knowledge about programs like Photoshop, illustrator,
+3DStudioMax or Zbrush. I consider it important for a **programmer** like me to have not
+extensive but enough knowledge in other areas like the artistic one in order to be
+able to properly communicate with the art team. Communication is as important as
+being able to optimize your work in order to function properly with members of other
+departments.
+I’m glad to say that I have good design knowledge and I’ve participated as a
+designer and gameplay programmer in projects like “The Witcher Ties of Destiny” explained below.
 
-### Markdown
+But first of all I’m a programmer. I have extensive knowledge about **c/c++** and I’m
+used to program using c# when I’m scripting in Unity, a game engine which I have
+good experience working with in several projects during the last few years. I’ve also
+programmed in lua scripting language and I have no problem learning new scripting
+languages.
+I also have the ability and experience to use this programming skills to create a video
+game that uses resource management systems, entity or crowd management, well
+polished AIs etc.
+
+As a game developer, I’ve been present in most areas and all the stages of the
+development in different projects that you can explore below.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
