@@ -35,9 +35,10 @@ highly liked by professionals from companies like Digital Legends, RayLib
 Technologies or Lince works.
 I was in charge of: Designer and gameplay programmer
 
-[Visit the WebPage here](https://tiesofdestiny.com/) 
+
 [![Watch the video](/images/tiesofdestiny.png)](https://www.youtube.com/watch?v=m5PS3PCTRs0)
 
+[Visit the WebPage here](https://tiesofdestiny.com/) 
 
 ### Mercury Engine
 “Mercury Engine” is a c++ programmed game engine using OpenGL and ImGui.
