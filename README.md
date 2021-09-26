@@ -110,6 +110,7 @@ mates)
 
 -Q&A department in [Cirsa](https://cutt.ly/Dh0pqJL), a leader company in gaming and betting sector in spain.
   3 months of internship from june 2019 to september 2019.
+  
 -Customer service and computer repair in a [OfertasPC](https://www.ofertaspc.com/)
  1 year and 9 months from january 2020 to september 2021.
 
