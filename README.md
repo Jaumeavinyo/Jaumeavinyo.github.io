@@ -33,7 +33,7 @@ class of 20 video games students. It was fully developed in our own c++
 OpenGL game engine while this was still in development. This game was
 highly liked by professionals from companies like Digital Legends, RayLib
 Technologies or Lince works.
-Designer and gameplay programmer
+I was in charge of: Designer and gameplay programmer
 
 [Visit the WebPage here](https://tiesofdestiny.com/) 
 
@@ -43,7 +43,37 @@ Designer and gameplay programmer
 “Mercury Engine” is a c++ programmed game engine using OpenGL and ImGui.
 
 [Visit the GitHub Page here](https://github.com/knela96/Mercury-Engine) 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://prnt.sc/1tq74dw)](https://www.youtube.com/watch?v=qAw3V35vyvA)
+
+
+
+### Order 227, Not a Step Back
+“Order 227, Not a Step Back” Is an RTS game developed during my second
+year in a team of 7 programmers. Fully developed in c++ using SDL library.
+I was in charge of: Team Manager
+
+[Visit the GitHub Page here](https://cutt.ly/Dh0o84m) 
+[![Watch the video](https://prnt.sc/1tq7g55)](https://www.youtube.com/watch?v=2uebz2vIlOg)
+
+
+
+## Almos Hero
+Almost Hero is a "Guitar hero" style game developed fully in c++ in 3 weeks.
+
+[Visit the GitHub Page here](https://cutt.ly/8h0o4MY) 
+[![Watch the video](https://prnt.sc/1tq82eu)](https://drive.google.com/file/d/1Ta4XddLz5-i3jpOjDi-DrMpM68JonNuJ/view?usp=sharing)
+
+
+
+## Last Resort
+Last Resort was my first c++ video game where we had to recreate a full level of
+the famous game Last Resort from NeoGeo:
+I was in charge of Q&A (as a personal responsibility, but programmed the game as my 3 team
+mates)
+
+[Visit the GitHub Page here](https://cutt.ly/Dh0pqJL) 
+[![Watch the video](https://prnt.sc/1tq8a32)](https://cutt.ly/2h0o5U4)
+
 
 ```markdown
 
