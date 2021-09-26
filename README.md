@@ -28,7 +28,22 @@ development in different projects that you can explore below.
 
 
 ### The Witcher Ties of Destiny
+“The Witcher Ties of Destiny” was a game developed in four months by a
+class of 20 video games students. It was fully developed in our own c++
+OpenGL game engine while this was still in development. This game was
+highly liked by professionals from companies like Digital Legends, RayLib
+Technologies or Lince works.
+Designer and gameplay programmer
 
+[Visit the WebPage here](https://tiesofdestiny.com/) 
+
+
+
+### Mercury Engine
+“Mercury Engine” is a c++ programmed game engine using OpenGL and ImGui.
+
+[Visit the GitHub Page here](https://github.com/knela96/Mercury-Engine) 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ```markdown
 
