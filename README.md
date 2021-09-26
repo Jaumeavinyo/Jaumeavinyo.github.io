@@ -57,7 +57,7 @@ I was in charge of: Team Manager
 
 
 
-## Almos Hero
+### Almos Hero
 Almost Hero is a "Guitar hero" style game developed fully in c++ in 3 weeks.
 
 [Visit the GitHub Page here](https://cutt.ly/8h0o4MY) 
@@ -65,7 +65,7 @@ Almost Hero is a "Guitar hero" style game developed fully in c++ in 3 weeks.
 
 
 
-## Last Resort
+### Last Resort
 Last Resort was my first c++ video game where we had to recreate a full level of
 the famous game Last Resort from NeoGeo:
 I was in charge of Q&A (as a personal responsibility, but programmed the game as my 3 team
@@ -75,30 +75,26 @@ mates)
 [![Watch the video](https://prnt.sc/1tq8a32)](https://cutt.ly/2h0o5U4)
 
 
-```markdown
+
+## Academic education
+
+### Bachelor's degree in Video Game Design and Development
+(2017 – 2021). Barcelona – CITM / UPC
+● Currently at my fourth year
+● Fully done in english 
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Scientific bachillerato
+(2015 – 2017). Institut Pare Manyanet - Les Corts. Barcelona
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Language studies
+● (July 2014. 2 weeks) Cambridge. England
+● (July 2015. 5 weeks) International School of languages. University of San
+Diego. California. EEUU
+● (Julio 2016. 3 weeks) St. John’s School. Canterbury England
+● (2017, 11 meses) Aston School - Sarriá. Barcelona
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jaumeavinyo/Jaumeavinyo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
