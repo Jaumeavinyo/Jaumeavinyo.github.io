@@ -36,6 +36,7 @@ Technologies or Lince works.
 I was in charge of: Designer and gameplay programmer
 
 
+Click on the image to access the video
 [![Watch the video](/images/tiesofdestiny.png)](https://www.youtube.com/watch?v=m5PS3PCTRs0)
 
 [Visit the WebPage here](https://tiesofdestiny.com/) 
@@ -43,6 +44,8 @@ I was in charge of: Designer and gameplay programmer
 ### Mercury Engine
 “Mercury Engine” is a c++ programmed game engine using OpenGL and ImGui.
 
+
+Click on the image to access the video
 [![Watch the video](/images/mercuryengine.png)](https://www.youtube.com/watch?v=qAw3V35vyvA)
 
 [Visit the GitHub Page here](https://github.com/knela96/Mercury-Engine) 
@@ -65,6 +68,7 @@ Click on the image to access the video
 ### Almos Hero
 Almost Hero is a "Guitar hero" style game developed fully in c++ in 3 weeks.
 
+
 Click on the image to access the video
 [![Watch the video](/images/almosthero.png)](https://drive.google.com/file/d/1Ta4XddLz5-i3jpOjDi-DrMpM68JonNuJ/view?usp=sharing)
 
@@ -77,11 +81,20 @@ the famous game Last Resort from NeoGeo:
 I was in charge of Q&A (as a personal responsibility, but programmed the game as my 3 team
 mates)
 
-[Visit the GitHub Page here](https://cutt.ly/Dh0pqJL) 
+
+
 [![Watch the video](/images/lastresort.png)](https://cutt.ly/2h0o5U4)
 
+[Visit the GitHub Page here](https://cutt.ly/Dh0pqJL) 
 
-![test image size](/images/almosthero.png){:class="img-responsive"}
+
+## Work experience:
+
+-Q&A department in [Cirsa](https://cutt.ly/Dh0pqJL), a leader company in gaming and betting sector in spain.
+  3 months of internship from june 2019 to september 2019
+-
+
+
 ## Academic education
 
 ### Bachelor's degree in Video Game Design and Development
