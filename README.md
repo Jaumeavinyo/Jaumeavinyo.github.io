@@ -24,10 +24,14 @@ As a game developer, I’ve been present in most areas and all the stages of the
 development in different projects that you can explore below.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Student Projects
+
+
+### The Witcher Ties of Destiny
+
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
