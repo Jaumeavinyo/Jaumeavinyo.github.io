@@ -45,17 +45,22 @@ Click on the image to access the video
 "Mercury engine" is an OpenGL 3D game engine developed in 4 months from scratch programmed in C++ and other libraries such as SDL, DeviL, Assimp, and ImGui . This project pretends to create a game engine which is able to load, import and play animations from fbx models that have been animated in an external animation software such as maya, blender or 3DsMax.
 
 Some functionalities are: 
-  Camera: Can create a camera which has a component camera, where you can activate the camera culling and change the fov.
-  File System: Every time a file is being dropped in the engine, it stores the file in a own file format to make it faster to read, loading all the info and also maintaining a relation with a .meta file for each file (Models and Textures)
-Importer
+
+- Camera: Can create a camera which has a component camera, where you can activate the camera culling and change the fov.
+-
+- File System: Every time a file is being dropped in the engine, it stores the file in a own file format to make it faster to read, loading all the info and also maintaining a     relation with a .meta file for each file (Models and Textures)
+
+- Importer
   Material: It load the texture of each model we are importing to store it as a resource and use it later the times we need
   Mesh: Loads a Mesh of a mesh and gets all the models data (vertices, indices, texture coords) to use it later for each object in the Engine.
   Bones: It loads all the bones of each mesh of the model, and stores them individually with its weights and the vertices they are affecting each bone.
   Animations: It loads the animations of the model with all the keyframes of each bone.
-  Renderer: It renders the models in current time, having the ability to choose in execution time some configurations of render(Depth, Culling, Colors, Textures) enabling and disabling them.
-  Resources: Each Mesh, Material, GameObject is stored in separated files with our file format and loaded once in memory.
-  Animator: The animator controls the animations of each object, it executes and bind in pose the model every frame, controlling the time of the animation and the positions of the bones that will change the position of the mesh.
   
+- Renderer: It renders the models in current time, having the ability to choose in execution time some configurations of render(Depth, Culling, Colors, Textures) enabling and disabling them.
+
+- Resources: Each Mesh, Material, GameObject is stored in separated files with our file format and loaded once in memory.
+-
+- Animator: The animator controls the animations of each object, it executes and bind in pose the model every frame, controlling the time of the animation and the positions of the bones that will change the position of the mesh. 
   
   
 Click on the image to access the video
