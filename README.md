@@ -47,7 +47,7 @@ Click on the image to access the video
 Some functionalities are: 
 
 - Camera: Can create a camera which has a component camera, where you can activate the camera culling and change the fov.
--
+
 - File System: Every time a file is being dropped in the engine, it stores the file in a own file format to make it faster to read, loading all the info and also maintaining a     relation with a .meta file for each file (Models and Textures)
 
 - Importer
@@ -59,7 +59,7 @@ Some functionalities are:
 - Renderer: It renders the models in current time, having the ability to choose in execution time some configurations of render(Depth, Culling, Colors, Textures) enabling and disabling them.
 
 - Resources: Each Mesh, Material, GameObject is stored in separated files with our file format and loaded once in memory.
--
+
 - Animator: The animator controls the animations of each object, it executes and bind in pose the model every frame, controlling the time of the animation and the positions of the bones that will change the position of the mesh. 
   
   
