@@ -102,10 +102,23 @@ I was in charge of Q&A (as a personal responsibility, but programmed the game as
 mates)
 
 
-
 [![Watch the video](images/last resort.png)](https://cutt.ly/2h0o5U4)
 
 [Visit the GitHub Page here](https://cutt.ly/Dh0pqJL) 
+
+
+
+### Easy neural networks
+Final degree project with a prototype still on development.
+
+What if we could use deep learning to figure out which are the best stats to balance a game? What if designers could spend more time on other tasks and not raking their brains trying to find the perfect number to make a fair game? 
+When I think of a way to automate finding perfect numbers in any field in software development, the first that comes to my mind are neural networks. But there is a problem with this solution, you need engineers to program a neural network. And now imagine that is only going to be used for a simple task. It seems clear that we can not pass to programmers the design work to liberate designers from these tasks.
+For this problem I have an obvious solution, let's make designers create their own neural networks in less time and effort than it would be necessary to solve the same problem without it. To do so, **I've created a prototype that allows anyone to create and train a neural network**.
+
+
+[![Watch the video](images/easyneural.png)](https://www.youtube.com/watch?v=vVJ6H56kYGs)
+
+
 
 
 ## Work experience:
