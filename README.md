@@ -116,7 +116,7 @@ When I think of a way to automate finding perfect numbers in any field in softwa
 For this problem I have an obvious solution, let's make designers create their own neural networks in less time and effort than it would be necessary to solve the same problem without it. To do so, **I've created a prototype that allows anyone to create and train a neural network**.
 
 
-[![Watch the video](images/easyneural.png)](https://www.youtube.com/watch?v=vVJ6H56kYGs)
+[![Watch the video](images/Screenshot_1.png)](https://www.youtube.com/watch?v=vVJ6H56kYGs)
 
 
 
