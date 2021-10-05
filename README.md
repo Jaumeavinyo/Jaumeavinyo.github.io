@@ -1,5 +1,5 @@
 Jaume Avinyo: Programmer
-
+![GitHub Logo](/images/yo.png)
 ## My objectives
 My intention is to start working as soon as posible in the industry. I'm currently finishing my bachelors degree of video game design and development in the CITM-UPC Barcelona and I'm looking for an internship to finish this stage of my life and start working full time in what I really love doing: Developing videogames.
 
@@ -123,7 +123,7 @@ For this problem I have an obvious solution, let's make designers create their o
 
 ## Work experience:
 
--Q&A department in [Cirsa](https://cutt.ly/Dh0pqJL), a leader company in gaming and betting sector in spain.
+-Q&A department in [Cirsa](https://www.cirsa.com/), a leader company in gaming and betting sector in spain.
   3 months of internship from june 2019 to september 2019.
   
 -Customer service and computer repair in a [OfertasPC](https://www.ofertaspc.com/)
