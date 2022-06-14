@@ -3,7 +3,7 @@ Jaume Avinyo: Programmer
 ![GitHub Logo](/images/yo.png)
 
 ## My objectives
-My intention is to start working as soon as posible in the industry. I'm currently finishing my bachelors degree of video game design and development in the CITM-UPC Barcelona and I'm looking for an internship to finish this stage of my life and start working full time in what I really love doing: Developing videogames.
+My intention is to start working as soon as posible in the industry. I've recently finished my bachelors degree of video game design and development in the CITM-UPC Barcelona and I'm looking for an internship or a full time job to finish this stage of my life and start working full time in what I really love doing: Developing videogames.
 
 ### Knowledges
 I’ve used and I have knowledge about programs like Photoshop, illustrator,
