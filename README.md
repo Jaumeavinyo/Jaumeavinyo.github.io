@@ -3,29 +3,16 @@ Jaume Avinyo: Programmer
 ![GitHub Logo](/images/yo.png)
 
 ## My objectives
-My intention is to start working as soon as posible in the industry. I've recently finished my bachelors degree of video game design and development in the CITM-UPC Barcelona and I'm looking for an internship or a full time job to finish this stage of my life and start working full time in what I really love doing: Developing videogames.
+I’ve recently finished my university degree in video game development and design and I’d like to incorporate to the video games industry as soon as possible.
+I’m open to an internship or a full time job as a c++/gameplay programmer.  I could start working with you as soon as you need me.
+
 
 ### Knowledges
-I’ve used and I have knowledge about programs like Photoshop, illustrator,
-3DStudioMax or Zbrush. I consider it important for a **programmer** like me to have not
-extensive but enough knowledge in other areas like the artistic one in order to be
-able to properly communicate with the art team. Communication is as important as
-being able to optimize your work in order to function properly with members of other
-departments.
-I’m glad to say that I have good design knowledge and I’ve participated as a
-designer and gameplay programmer in projects like “The Witcher Ties of Destiny” explained below.
+I’m a programmer, but I also studied 3D modeling and animation in programs like 3D studio max, blender and zBrush. I also know about level design, world building, UI and game design in general.
+This knowledge allows me to communicate with other co-workers, and understanding their needs and their work allows me to have good communication between departments. 
+I’m mainly a c++ programmer, a language that I’ve used to create games in custom  2D and 3D engines. I’ve also been gameplay programmer in projects in which I’ve used lua or c#. As a programmer I’ve created lots of necessary systems for the games I’ve worked on, some of them are: 2D and 3D cameras, audio systems, input systems, entity and crowd managers, pathfinding, custom UI, loading and  rendering 2D images and 3D mesh importer for 3D studio max files, material loading, 3D transforms, file systems, frame rate and delta time control, etc. I’m not saying I’m an expert in all those systems and I know that as a junior I have a lot to learn, but I’ve created all of them for my projects and I can say I can do it again!
+As a game developer, I’ve been present in most areas and all the stages of the development in different projects that you can explore below.
 
-But first of all I’m a programmer. I have extensive knowledge about **c/c++** and I’m
-used to program using c# when I’m scripting in Unity, a game engine which I have
-good experience working with in several projects during the last few years. I’ve also
-programmed in lua scripting language and I have no problem learning new scripting
-languages.
-I also have the ability and experience to use this programming skills to create a video
-game that uses resource management systems, entity or crowd management, well
-polished AIs etc.
-
-As a game developer, I’ve been present in most areas and all the stages of the
-development in different projects that you can explore below.
 
 
 ## Student Projects
