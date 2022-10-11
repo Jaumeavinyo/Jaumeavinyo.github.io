@@ -8,9 +8,10 @@ I’m open to an internship or a full time job as a c++/gameplay programmer.  I 
 
 
 ### Knowledges
-I’m a programmer, but I also studied 3D modeling and animation in programs like 3D studio max, blender and zBrush. I also know about level design, world building, UI and game design in general.
-This knowledge allows me to communicate with other co-workers, and understanding their needs and their work allows me to have good communication between departments. 
+I’m a programmer, but I also studied 3D modeling and animation in programs like 3D studio max, blender and zBrush. I also know about level design, world building, UI and game design in general. This knowledge allows me to communicate with other co-workers, and understanding their needs and their work allows me to have good communication between departments.
+
 I’m mainly a c++ programmer, a language that I’ve used to create games in custom  2D and 3D engines. I’ve also been gameplay programmer in projects in which I’ve used lua or c#. As a programmer I’ve created lots of necessary systems for the games I’ve worked on, some of them are: 2D and 3D cameras, audio systems, input systems, entity and crowd managers, pathfinding, custom UI, loading and  rendering 2D images and 3D mesh importer for 3D studio max files, material loading, 3D transforms, file systems, frame rate and delta time control, etc. I’m not saying I’m an expert in all those systems and I know that as a junior I have a lot to learn, but I’ve created all of them for my projects and I can say I can do it again!
+
 As a game developer, I’ve been present in most areas and all the stages of the development in different projects that you can explore below.
 
 
