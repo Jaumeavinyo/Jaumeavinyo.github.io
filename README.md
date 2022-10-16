@@ -14,7 +14,17 @@ I’m mainly a c++ programmer, a language that I’ve used to create games in cu
 
 As a game developer, I’ve been present in most areas and all the stages of the development in different projects that you can explore below.
 
+## Personal Projects
 
+I'm always working to further develop my c++ coding skills, but I also work on other mini projects such as this one:
+
+### 2D character movement and attack system
+
+A mini project to show character movement and attack in unity:
+The character works with a FSM that handles states written in separate scripts. This mini project also uses camera movement script and parallax script for the background.
+
+Click on the image to access the video
+[![Watch the video](/images/tiesofdestiny.png)](https://www.youtube.com/watch?v=m5PS3PCTRs0)
 
 ## Student Projects
 
