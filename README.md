@@ -20,11 +20,11 @@ I'm always working to further develop my c++ coding skills, but I also work on o
 
 ### 2D character movement and attack system
 
-A mini project to show character movement and attack in unity:
+A mini project to show character movement and attack in unity (still in development, video may change over time with new versions):
 The character works with a FSM that handles states written in separate scripts. This mini project also uses camera movement script and parallax script for the background.
 
 Click on the image to access the video
-[![Watch the video](/images/fsm_character.png)](https://www.youtube.com/watch?v=yCOX13P05uE)
+[![Watch the video](/images/fsm_character.png)](https://youtu.be/_-et5e7WD8Y)
 
 ## Student Projects
 
