@@ -24,7 +24,7 @@ A mini project to show character movement and attack in unity (still in developm
 The character works with a FSM that handles states written in separate scripts. This mini project also uses camera movement script and parallax script for the background.
 
 Click on the image to access the video
-[![Watch the video](/images/fsm_character.png)](https://youtu.be/_-et5e7WD8Y)
+[![Watch the video](/images/fsm_character.png)](https://youtu.be/3afHinusUmc)
 
 ## Student Projects
 
