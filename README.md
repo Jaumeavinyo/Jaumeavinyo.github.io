@@ -90,7 +90,7 @@ Almost Hero is a "Guitar hero" style game developed fully in c++ in 3 weeks.
 
 
 Click on the image to access the video
-[![Watch the video](/images/almosthero.png)](https://drive.google.com/file/d/1Ta4XddLz5-i3jpOjDi-DrMpM68JonNuJ/view?usp=sharing)
+[![Watch the video](/images/almosthero.png)](https://youtu.be/vuUG-xygVik)
 
 [Visit the GitHub Page here](https://cutt.ly/8h0o4MY) 
 
