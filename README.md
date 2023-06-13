@@ -27,7 +27,7 @@ I wanted to explore a bit the shaders world and learn about mathmatics that make
 - plane patterns.
 
 Click on the image to access the shader source code and render in real time:
-
+[![Shader](/images/reflectionsShader.jpg)]([https://example.com](https://www.shadertoy.com/view/DdV3Dz))
 ### 2D character movement and attack system
 
 A mini project to show character movement and attack in unity.
