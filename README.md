@@ -36,6 +36,17 @@ The character works with a FSM that handles states written in separate scripts. 
 Click on the image to access the video
 [![Watch the video](/images/fsm_character.png)](https://youtu.be/3afHinusUmc)
 
+## Game Jam Projects
+
+
+
+### Project Rebirth 
+Project rebirth is a game done in my university anual game jam. It had been developed in 24 hours and it is about resources management in which you have to get to a balance between production and polution to gain resources not destroying the planets you visit and achieving a perfect balance. 
+
+Click on the image to access the promotional video
+[![Watch the video](/images/fsm_character.png)](https://www.youtube.com/watch?v=ZdIgT6x-kOo&t=75s&ab_channel=RogerLeonBorras)
+[Visit the WebPage here](https://lostsignalstudio.itch.io/project-rebirth) 
+
 ## Student Projects
 
 
