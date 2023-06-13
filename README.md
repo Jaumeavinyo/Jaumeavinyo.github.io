@@ -17,6 +17,16 @@ As a game developer, I’ve been present in most areas and all the stages of the
 ## Personal Projects
 
 I'm always working to further develop my c++ coding skills, but I also work on other mini projects such as this one:
+### 3D shader
+I wanted to explore a bit the shaders world and learn about mathmatics that make them possible. To do so, I created a shader in shadertoy.com that has the following features: 
+- 3D rayIntersections to draw soheres and planes taking into account  intersections between them.
+- Local illumination (ambient, diffuse, specular).
+- Hard shadows.
+- Reflections.
+- Distance fog.
+- plane patterns.
+
+Click on the image to access the shader source code and render in real time:
 
 ### 2D character movement and attack system
 
