@@ -126,6 +126,6 @@
 
 - **Email**: [jaume.avinyo.sedano@hotmail.com](mailto:jaume.avinyo.sedano@hotmail.com)
 - **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/jaume-avinyó-sedano-b13b17183)
-- **GitHub**: [GitHub Profile]([https://github.com/your-github](https://github.com/Jaumeavinyo))
+- **GitHub**: [GitHub Profile](https://github.com/Jaumeavinyo)
 
 ---
