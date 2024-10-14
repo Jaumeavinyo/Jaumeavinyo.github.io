@@ -36,6 +36,14 @@
 
 ## 🏫 Student Projects
 
+### Myrmica
+- **Description**: Done in Unreal Engine, Myrmica is an investigation and puzzle game with an isometric camera where you explore a petrol station while being chased by a time anomaly. To achieve this, manipulate the routine of 5 characters for your needs and create your situations on a time loop. And discover the truth of Complex B13B
+- **Role**: Designer, Gameplay and animations programmer, producer.
+- **Technologies**: Unreal Engine 5
+- [Watch the Video]([https://www.youtube.com/watch?v=m5PS3PCTRs0](https://www.youtube.com/watch?v=ShOjy29skAk)) | [Visit LinkedIn page]([https://tiesofdestiny.com/](https://www.linkedin.com/company/paranoia-studios/posts/?feedView=all))
+
+[![Myrmica preview](/images/tiesofdestiny.png)]([https://www.youtube.com/watch?v=m5PS3PCTRs0](https://www.youtube.com/watch?v=ShOjy29skAk))
+
 ### The Witcher: Ties of Destiny
 - **Description**: A four-month project developed by a team of 20 students using a custom C++ OpenGL engine.
 - **Role**: Designer and Gameplay Programmer
