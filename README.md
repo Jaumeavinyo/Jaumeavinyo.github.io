@@ -2,37 +2,6 @@
 
 ![Profile Picture](/images/yo.png)
 
----
-
-## 💻 Projects
-
-### 3D Shader
-- **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
-- **Technologies**: ShaderToy, GLSL
-- **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, and distance fog.
-- [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
-
-[![Shader Preview](/images/reflectionsShader.png)](https://www.shadertoy.com/view/DdV3Dz)
-
-### 2D Character Movement and Attack System
-- **Description**: A Unity project showcasing character movement and attack systems with FSM-driven state management.
-- **Technologies**: Unity, C#
-- **Features**: Finite State Machine for character states, camera movement, and parallax backgrounds.
-- [Watch Demo](https://youtu.be/3afHinusUmc)
-
-[![FSM Character Preview](/images/fsm_character.png)](https://youtu.be/3afHinusUmc)
-
----
-
-## 🎮 Game Jam Projects
-
-### Project Rebirth
-- **Description**: A resource management game developed in a 24-hour game jam. Players balance production and pollution to gain resources without damaging planets.
-- [Watch the Promo Video](https://www.youtube.com/watch?v=ZdIgT6x-kOo&t=75s&ab_channel=RogerLeonBorras) | [Play on Itch.io](https://lostsignalstudio.itch.io/project-rebirth)
-
-[![Project Rebirth Preview](/images/ProjectRebirth.png)](https://www.youtube.com/watch?v=ZdIgT6x-kOo&t=75s&ab_channel=RogerLeonBorras)
-
----
 
 ## 🏫 Student Projects
 
@@ -86,6 +55,37 @@
 [![Easy Neural Networks Preview](/images/Screenshot_1.png)](https://www.youtube.com/watch?v=vVJ6H56kYGs)
 
 ---
+
+## 💻 Personal Projects
+
+### 3D Shader
+- **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
+- **Technologies**: ShaderToy, GLSL
+- **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, and distance fog.
+- [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
+
+[![Shader Preview](/images/reflectionsShader.png)](https://www.shadertoy.com/view/DdV3Dz)
+
+### 2D Character Movement and Attack System
+- **Description**: A Unity project showcasing character movement and attack systems with FSM-driven state management.
+- **Technologies**: Unity, C#
+- **Features**: Finite State Machine for character states, camera movement, and parallax backgrounds.
+- [Watch Demo](https://youtu.be/3afHinusUmc)
+
+[![FSM Character Preview](/images/fsm_character.png)](https://youtu.be/3afHinusUmc)
+
+---
+
+## 🎮 Game Jam Projects
+
+### Project Rebirth
+- **Description**: A resource management game developed in a 24-hour game jam. Players balance production and pollution to gain resources without damaging planets.
+- [Watch the Promo Video](https://www.youtube.com/watch?v=ZdIgT6x-kOo&t=75s&ab_channel=RogerLeonBorras) | [Play on Itch.io](https://lostsignalstudio.itch.io/project-rebirth)
+
+[![Project Rebirth Preview](/images/ProjectRebirth.png)](https://www.youtube.com/watch?v=ZdIgT6x-kOo&t=75s&ab_channel=RogerLeonBorras)
+
+---
+
 
 ## 🛠 Skills
 
