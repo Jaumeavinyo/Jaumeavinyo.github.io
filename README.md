@@ -89,9 +89,11 @@
 
 ## 🛠 Skills
 
+**Programmer and Game Designer**
+
 - **Programming Languages**: C++, C#, Lua
 - **Game Engines**: Unity, Unreal engine 5, Custom-built 2D/3D engines
-- **Design**: Game Designer
+- **3D software**: Pipeline workflow and basic use knowledge about 3DStudio Max, Maya, ZBrush and substance painter
 
 
 ---
