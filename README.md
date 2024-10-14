@@ -11,7 +11,7 @@
 - **Technologies**: Unreal Engine 5
 - [Watch the Video]([https://www.youtube.com/watch?v=m5PS3PCTRs0](https://www.youtube.com/watch?v=ShOjy29skAk)) | [Visit LinkedIn page]([https://tiesofdestiny.com/](https://www.linkedin.com/company/paranoia-studios/posts/?feedView=all))
 
-[![Myrmica preview](/images/tiesofdestiny.png)]([https://www.youtube.com/watch?v=m5PS3PCTRs0](https://www.youtube.com/watch?v=ShOjy29skAk))
+[![Myrmica preview](/images/Myrmica.jpeg)]([https://www.youtube.com/watch?v=m5PS3PCTRs0](https://www.youtube.com/watch?v=ShOjy29skAk))
 
 ### The Witcher: Ties of Destiny
 - **Description**: A four-month project developed by a team of 20 students using a custom C++ OpenGL engine.
