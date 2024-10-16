@@ -16,7 +16,7 @@
 ### The Witcher: Ties of Destiny
 - **Description**: A four-month project developed by a team of 20 students using a custom C++ OpenGL engine.
 - **Role**: Designer and Gameplay Programmer
-- **Technologies**: C++, OpenGL
+- **Technologies**: Our own c++ game engine, lua
 - [Watch the Video](https://www.youtube.com/watch?v=m5PS3PCTRs0) | [Visit the Website](https://tiesofdestiny.com/)
 
 [![Ties of Destiny Preview](/images/tiesofdestiny.png)](https://www.youtube.com/watch?v=m5PS3PCTRs0)
