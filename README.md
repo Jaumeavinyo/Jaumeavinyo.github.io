@@ -30,26 +30,26 @@
 [![Mercury Engine Preview](/images/mercuryengine.png)](https://www.youtube.com/watch?v=qAw3V35vyvA)
 
 ### Order 227: Not a Step Back
-- **Description**: RTS game developed by a seven-member team using SDL. I served as team manager, overseeing gameplay mechanics and strategic decisions.
+- **Description**: A only c++ RTS game developed by a seven-member team using SDL. I served as C++ programmer and team manager, overseeing gameplay mechanics and strategic decisions.
 - [Watch the Video](https://www.youtube.com/watch?v=2uebz2vIlOg) | [GitHub Repository](https://cutt.ly/Dh0o84m)
 
 [![Order 227 Preview](/images/order227.png)](https://www.youtube.com/watch?v=2uebz2vIlOg)
 
 ### Almost Hero
-- **Description**: A C++ rhythm game inspired by Guitar Hero, completed in three weeks.
+- **Description**: A only C++ rhythm game inspired by Guitar Hero, completed in three weeks.
 - [Watch the Video](https://youtu.be/vuUG-xygVik) | [GitHub Repository](https://cutt.ly/8h0o4MY)
 
 [![Almost Hero Preview](/images/almosthero.png)](https://youtu.be/vuUG-xygVik)
 
 ### Last Resort
-- **Description**: A C++ recreation of a level from NeoGeo’s "Last Resort," completed with a team of three.
+- **Description**: A only C++ recreation of a level from NeoGeo’s "Last Resort," completed with a team of three.
 - [Watch the Video](https://cutt.ly/2h0o5U4) | [GitHub Repository](https://cutt.ly/Dh0pqJL)
 
 [![Last Resort Preview](/images/last%20resort.png)](https://cutt.ly/2h0o5U4)
 
 ### Easy Neural Networks
-- **Description**: A prototype tool enabling designers to create and train neural networks for game balance without programming skills.
-- **Technologies**: C++, Python (prototype stage)
+- **Description**: A prototype tool enabling designers to create and train neural networks without programming skills.
+- **Technologies**: C++ (prototype stage)
 - [Watch the Video](https://www.youtube.com/watch?v=vVJ6H56kYGs)
 
 [![Easy Neural Networks Preview](/images/Screenshot_1.png)](https://www.youtube.com/watch?v=vVJ6H56kYGs)
@@ -61,7 +61,7 @@
 ### 3D Shader
 - **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
 - **Technologies**: ShaderToy, GLSL
-- **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, and distance fog.
+- **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, refractions and distance fog.
 - [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
 
 [![Shader Preview](/images/reflectionsShader.png)](https://www.shadertoy.com/view/DdV3Dz)
@@ -103,7 +103,7 @@
 - **Quality Assurance Intern** - [Cirsa](https://www.cirsa.com/) (June 2019 - September 2019)
   - Industry leader in Spain's gaming and betting sector.
   
-- **Customer Service & Computer Repair Technician** - [OfertasPC](https://www.ofertaspc.com/) (January 2020 - September 2021)
+- **Customer Service & Computer Repair Technician** - [OfertasPC](https://www.ofertaspc.com/) (January 2020 - September 2022)
 
 ---
 
@@ -114,7 +114,7 @@
 - **Bachelor's Degree in Video Game Programming**  
   - CITM/UPC, Barcelona (2017 – 2021) – Degree in English
   
-- **Scientific Baccalaureate**  
+- **Scientific Bachillerato**  
   - Institut Pare Manyanet, Les Corts, Barcelona (2015 – 2017)
 
 - **Language Studies**  
