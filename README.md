@@ -2,6 +2,34 @@
 
 ![Profile Picture](/images/yo.png)
 
+## Profesional Experience
+
+### Hexomancer (public project)
+- **Description**: Full Time Producer.
+- **Technologies**: Notion, HackNPlan
+- **Features**: VR Singleplayer game. Mix between crafting your troops in a laboratory and making them fight in an autobatler type combat where you help them with potions and magic habilities
+- Game trailer coming soon
+---
+
+## 💻 Personal Projects
+
+### 3D Shader
+- **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
+- **Technologies**: ShaderToy, GLSL
+- **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, refractions and distance fog.
+- [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
+
+[![Shader Preview](/images/reflectionsShader.png)](https://www.shadertoy.com/view/DdV3Dz)
+
+### 2D Character Movement and Attack System
+- **Description**: A Unity project showcasing character movement and attack systems with FSM-driven state management.
+- **Technologies**: Unity, C#
+- **Features**: Finite State Machine for character states, camera movement, and parallax backgrounds.
+- [Watch Demo](https://youtu.be/3afHinusUmc)
+
+[![FSM Character Preview](/images/fsm_character.png)](https://youtu.be/3afHinusUmc)
+
+---
 
 ## 🏫 Student Projects
 
@@ -53,26 +81,6 @@
 - [Watch the Video](https://www.youtube.com/watch?v=vVJ6H56kYGs)
 
 [![Easy Neural Networks Preview](/images/Screenshot_1.png)](https://www.youtube.com/watch?v=vVJ6H56kYGs)
-
----
-
-## 💻 Personal Projects
-
-### 3D Shader
-- **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
-- **Technologies**: ShaderToy, GLSL
-- **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, refractions and distance fog.
-- [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
-
-[![Shader Preview](/images/reflectionsShader.png)](https://www.shadertoy.com/view/DdV3Dz)
-
-### 2D Character Movement and Attack System
-- **Description**: A Unity project showcasing character movement and attack systems with FSM-driven state management.
-- **Technologies**: Unity, C#
-- **Features**: Finite State Machine for character states, camera movement, and parallax backgrounds.
-- [Watch Demo](https://youtu.be/3afHinusUmc)
-
-[![FSM Character Preview](/images/fsm_character.png)](https://youtu.be/3afHinusUmc)
 
 ---
 
