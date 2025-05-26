@@ -17,7 +17,7 @@
 ### MistBorn Game Prototype (WIP)
 - **Description**: Movement based third person game prototype in wich we are adapting the book's magic system to a videogame.
 - **Technologies**: Unreal Engine 5.4, C++
-- **Features**: Custom modular Ability system, Camera system, Ability design, movement design
+- **Features**: Custom modular Ability system, Camera system, Ability design, movement design, level design.
 - Gameplay video comming soon online! Ask me about the project!
 
 ### 3D Shader
