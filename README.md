@@ -119,7 +119,8 @@
   - Industry leader in Spain's gaming and betting sector.
   
 - **Customer Service & Computer Repair Technician** - [OfertasPC](https://www.ofertaspc.com/) (January 2020 - September 2022)
-
+- **Producer**
+  - Producer at Pandora's Box, indie company developing VR games 
 ---
 
 ## 📘 Education
