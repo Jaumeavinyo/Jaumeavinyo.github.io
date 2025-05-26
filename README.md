@@ -83,7 +83,7 @@
 [![Last Resort Preview](/images/last%20resort.png)](https://cutt.ly/2h0o5U4)
 
 ### Easy Neural Networks
-- **Description**: A prototype tool enabling designers to create and train neural networks without programming skills.
+- **Description**: A prototype tool enabling to create a neural network from scratch to understand its internal functioning
 - **Technologies**: C++ (prototype stage)
 - [Watch the Video](https://www.youtube.com/watch?v=vVJ6H56kYGs)
 
