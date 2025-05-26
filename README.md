@@ -13,6 +13,12 @@
 
 ## 💻 Personal Projects
 
+### MistBorn Game Prototype
+- **Description**: Movement based third person game prototype in wich we are adapting the book's magic system to a videogame.
+- **Technologies**: Unreal Engine 5.4, C++
+- **Features**: Custom modular Ability system, Camera system, Ability design, movement design
+- Gameplay video comming soon online! Ask me about the project!
+
 ### 3D Shader
 - **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
 - **Technologies**: ShaderToy, GLSL
