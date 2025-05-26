@@ -6,7 +6,7 @@
 
 ### Hexomancer (public project)
 - **Description**: Full Time Producer.
-- **Technologies**: Notion, HackNPlan
+- **Technologies**: Unity, Notion, HackNPlan
 - **Features**: VR Singleplayer game. Mix between crafting your troops in a laboratory and making them fight in an autobatler type combat where you help them with potions and magic habilities
 - [Game trailer coming soon](https://www.youtube.com/watch?v=tlbSwPsO1Ss&t=1s&ab_channel=Hexomancer)
 - [![Game Preview](/images/hexomancer.jpg)](https://www.youtube.com/watch?v=tlbSwPsO1Ss&t=1s&ab_channel=Hexomancer)
