@@ -19,7 +19,7 @@
 - **Technologies**: Unreal Engine 5.4, C++
 - **Features**: Custom modular Ability system, Camera system, Ability design, movement design, level design.
 - [Prototype video](https://youtu.be/nv4K4GL2YUI)
-- [![Game Preview](/images/hexomancer.jpg)](https://www.youtube.com/watch?v=tlbSwPsO1Ss&t=1s&ab_channel=Hexomancer)
+- [![Game Preview](/images/VIN.jpg)](https://www.youtube.com/watch?v=tlbSwPsO1Ss&t=1s&ab_channel=Hexomancer)
 
 ### 3D Shader
 - **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
