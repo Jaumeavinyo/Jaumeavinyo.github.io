@@ -18,6 +18,9 @@
 - **Description**: Movement based third person game prototype in wich i'm adapting the book's magic system to a videogame. C++ gameplay programming, design and level design
 - **Technologies**: Unreal Engine 5.4, C++
 - **Features**: Custom modular Ability system, Camera system, Ability design, movement design, level design.
+- Code:
+  - Relevant code in: UAllomanticAbility.cpp,PullAbility.cpp, AllomancyComponent.cpp
+  - Code base here: https://github.com/Jaumeavinyo/MB_Project/tree/b91dc1833abdbc8efff48860ad8ef2c4875e101b/MB_Project/Source/MB_Project
 - [Prototype video](https://youtu.be/nv4K4GL2YUI)
 - [![Game Preview](/images/VIN.jpeg)](https://youtu.be/nv4K4GL2YUI)
 
