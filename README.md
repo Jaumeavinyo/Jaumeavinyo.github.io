@@ -22,8 +22,8 @@
   - Relevant code in: UAllomanticAbility.cpp,PullAbility.cpp, AllomancyComponent.cpp
   - Code base here: https://github.com/Jaumeavinyo/MB_Project/tree/b91dc1833abdbc8efff48860ad8ef2c4875e101b/MB_Project/Source/MB_Project
 - [Prototype video](https://youtu.be/nv4K4GL2YUI)
-- [![Game Preview](/images/MistBornLevel.gif)](https://youtu.be/NfB75_VGf1M)
-- [![Game Preview](/images/MistBornPlayGround.gif)](https://youtu.be/nv4K4GL2YUI)
+- [![Game Preview](/images/MistBornLevelGif.gif)](https://youtu.be/NfB75_VGf1M)
+- [![Game Preview](/images/MistBornPlayGroundGif.gif)](https://youtu.be/nv4K4GL2YUI)
   
 ### 3D Shader
 - **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
