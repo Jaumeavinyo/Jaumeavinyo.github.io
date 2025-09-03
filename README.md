@@ -22,15 +22,15 @@
   - Relevant code in: UAllomanticAbility.cpp,PullAbility.cpp, AllomancyComponent.cpp
   - Code base here: https://github.com/Jaumeavinyo/MB_Project/tree/b91dc1833abdbc8efff48860ad8ef2c4875e101b/MB_Project/Source/MB_Project
 - [Prototype video](https://youtu.be/nv4K4GL2YUI)
-- [![Game Preview](/images/VIN.jpeg)](https://youtu.be/nv4K4GL2YUI)
-
+- [![Game Preview](/images/MistBornLevel.gif)](https://youtu.be/NfB75_VGf1M)
+- [![Game Preview](/images/MistBornPlayGround.gif)](https://youtu.be/nv4K4GL2YUI)
+  
 ### 3D Shader
 - **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
 - **Technologies**: ShaderToy, GLSL
 - **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, refractions and distance fog.
 - [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
-
-[![Shader Preview](/images/reflectionsShader.png)](https://www.shadertoy.com/view/DdV3Dz)
+[![Shader Preview](/images/ShaderGif.gif)](https://www.shadertoy.com/view/DdV3Dz)
 
 ### 2D Character Movement and Attack System
 - **Description**: A Unity project showcasing character movement and attack systems with FSM-driven state management.
@@ -50,7 +50,7 @@
 - **Technologies**: Unreal Engine 5
 - [Watch the Video](https://www.youtube.com/watch?v=ShOjy29skAk) | [Visit Studio LinkedIn page](https://www.linkedin.com/company/paranoia-studios/posts/?feedView=all)
 
-[![Myrmica preview](/images/Myrmica2.png)](https://www.youtube.com/watch?v=ShOjy29skAk)
+[![Myrmica preview](/images/MyrmicaGif.gif)](https://www.youtube.com/watch?v=ShOjy29skAk)
 
 ### The Witcher: Ties of Destiny
 - **Description**: A four-month project developed by a team of 20 students using a custom C++ OpenGL engine.
@@ -58,7 +58,7 @@
 - **Technologies**: Our own c++ game engine, lua
 - [Watch the Video](https://www.youtube.com/watch?v=m5PS3PCTRs0) | [Visit the Website](https://tiesofdestiny.com/)
 
-[![Ties of Destiny Preview](/images/tiesofdestiny.png)](https://www.youtube.com/watch?v=m5PS3PCTRs0)
+[![Ties of Destiny Preview](/images/GifWitcher.gif)](https://www.youtube.com/watch?v=m5PS3PCTRs0)
 
 ### Mercury Engine
 - **Description**: A 3D game engine with importing, animation playback, and real-time rendering capabilities, developed in four months from scratch.
@@ -72,19 +72,19 @@
 - **Description**: A only c++ RTS game developed by a seven-member team using SDL. I served as C++ programmer and team manager, overseeing gameplay mechanics and strategic decisions.
 - [Watch the Video](https://www.youtube.com/watch?v=2uebz2vIlOg) | [GitHub Repository](https://cutt.ly/Dh0o84m)
 
-[![Order 227 Preview](/images/order227.png)](https://www.youtube.com/watch?v=2uebz2vIlOg)
+[![Order 227 Preview](/images/Order227Gif.gif)](https://www.youtube.com/watch?v=2uebz2vIlOg)
 
 ### Almost Hero
 - **Description**: A only C++ rhythm game inspired by Guitar Hero, completed in three weeks.
 - [Watch the Video](https://youtu.be/vuUG-xygVik) | [GitHub Repository](https://cutt.ly/8h0o4MY)
 
-[![Almost Hero Preview](/images/almosthero.png)](https://youtu.be/vuUG-xygVik)
+[![Almost Hero Preview](/images/AlmostHeroGif.gif)](https://youtu.be/vuUG-xygVik)
 
 ### Last Resort
 - **Description**: A only C++ recreation of a level from NeoGeo’s "Last Resort," completed with a team of three.
 - [Watch the Video](https://cutt.ly/2h0o5U4) | [GitHub Repository](https://cutt.ly/Dh0pqJL)
 
-[![Last Resort Preview](/images/last%20resort.png)](https://cutt.ly/2h0o5U4)
+[![Last Resort Preview](/images/LastResortGif.gif)](https://cutt.ly/2h0o5U4)
 
 ### Easy Neural Networks
 - **Description**: A prototype tool enabling to create a neural network from scratch to understand its internal functioning
