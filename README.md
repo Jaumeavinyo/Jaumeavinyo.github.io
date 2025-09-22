@@ -32,13 +32,13 @@
 - [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
 [![Shader Preview](/images/ShaderGif.gif)](https://www.shadertoy.com/view/DdV3Dz)
 
-### 2D Character Movement and Attack System
-- **Description**: A Unity project showcasing character movement and attack systems with FSM-driven state management.
+### 2D Character Movement, Attack System and enemy AI
+- **Description**: A Unity project showcasing character movement and attack systems, AI enemy with FSM-driven state management.
 - **Technologies**: Unity, C#
-- **Features**: Finite State Machine for character states, camera movement, and parallax backgrounds.
-- [Watch Demo](https://youtu.be/3afHinusUmc)
+- **Features**: Finite State Machine for character and enemy states, camera movement, parallax backgrounds and fight collision system.
+- [Watch Demo](https://youtu.be/fTIYljznsaQ)
 
-[![FSM Character Preview](/images/fsm_character.png)](https://youtu.be/3afHinusUmc)
+[![FSM Character Preview](fightPrototype.gif)](https://youtu.be/fTIYljznsaQ)
 
 ---
 
