@@ -38,7 +38,7 @@
 - **Features**: Finite State Machine for character and enemy states, camera movement, parallax backgrounds and fight collision system.
 - [Watch Demo](https://youtu.be/fTIYljznsaQ)
 
-[![FSM Character Preview](fightPrototype.gif)](https://youtu.be/fTIYljznsaQ)
+[![FSM Character Preview](/images/fightPrototype.gif)](https://youtu.be/fTIYljznsaQ)
 
 ---
 
