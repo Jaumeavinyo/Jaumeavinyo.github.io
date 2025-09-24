@@ -36,9 +36,9 @@
 - **Description**: A Unity project showcasing character movement and attack systems, AI enemy with FSM-driven state management.
 - **Technologies**: Unity, C#
 - **Features**: Finite State Machine for character and enemy states, camera movement, parallax backgrounds and fight collision system.
-- [Watch Demo](https://youtu.be/US9kgb4FimU)
+- [Watch Demo](https://youtu.be/xEKoS6ZLFqs)
 
-[![FSM Character Preview](/images/fightPrototype.gif)](https://youtu.be/US9kgb4FimU)
+[![FSM Character Preview](/images/fightPrototype.gif)](https://youtu.be/xEKoS6ZLFqs)
 
 ---
 
