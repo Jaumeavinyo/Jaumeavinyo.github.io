@@ -1,7 +1,7 @@
 # Jaume Avinyo: Programmer and Game Designer
 
-![Profile Picture](/images/YO.jpg){:width="200"}
 
+<img src="/images/YO.jpg" alt="Profile Picture" width="200">
 ## Profesional Experience
 
 ### Hexomancer (public project)
