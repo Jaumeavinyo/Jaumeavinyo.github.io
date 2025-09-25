@@ -20,7 +20,8 @@
 - **Features**: Custom modular Ability system, Camera system, Ability design, movement design, level design.
 - Code:
   - Relevant code in: UAllomanticAbility.cpp,PullAbility.cpp, AllomancyComponent.cpp
-  - Code base here: https://github.com/Jaumeavinyo/MB_Project/tree/b91dc1833abdbc8efff48860ad8ef2c4875e101b/MB_Project/Source/MB_Project
+  - Code base here: [Github project](https://github.com/Jaumeavinyo/MB_Project/tree/b91dc1833abdbc8efff48860ad8ef2c4875e101b/MB_Project/Source/MB_Project)
+  
 - [Prototype video](https://youtu.be/nv4K4GL2YUI)
 - [![Game Preview](/images/MistBornLevelGif.gif)](https://youtu.be/NfB75_VGf1M)
 - [![Game Preview](/images/MistBornPlayGroundGif.gif)](https://youtu.be/rH3wEdMCtkY)
@@ -138,12 +139,14 @@
   - Institut Pare Manyanet, Les Corts, Barcelona (2015 – 2017)
 
 - **Language Studies**  
-  - Cambridge (England), International School of Languages (San Diego), Aston School (Barcelona)
+  - Cambridge (England),
+  - International School of Languages in San Diego (USA)
+  - Aston School (Barcelona)
 
 ---
 
 ## 📫 Contact
-
+- **Phone**: 671507035
 - **Email**: [jaume.avinyo.sedano@hotmail.com](mailto:jaume.avinyo.sedano@hotmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/jaume-avinyó-sedano-b13b17183)
 - **GitHub**: [GitHub Profile](https://github.com/Jaumeavinyo)
