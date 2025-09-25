@@ -1,6 +1,6 @@
 # Jaume Avinyo: Programmer and Game Designer
 
-![Profile Picture](/images/YO.jpg)
+![Profile Picture](/images/YO.jpg){:width="200"}
 
 ## Profesional Experience
 
