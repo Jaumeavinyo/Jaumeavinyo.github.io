@@ -145,8 +145,8 @@
 
 ---
 
-## 📫 Contact
-- **Phone**: 671507035
+## 📫 Contact: Jaume, Barcelona, Spain
+- **Phone**: +34 671507035
 - **Email**: [jaume.avinyo.sedano@hotmail.com](mailto:jaume.avinyo.sedano@hotmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/jaume-avinyó-sedano-b13b17183)
 - **GitHub**: [GitHub Profile](https://github.com/Jaumeavinyo)
