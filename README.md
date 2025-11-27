@@ -119,7 +119,8 @@
 ---
 
 ## 💼 Work Experience
-
+- **Junior Producer** Pandora's Box VR studio
+  -  VR strategy and crafting game
 - **Quality Assurance Intern** - [Cirsa](https://www.cirsa.com/) (June 2019 - September 2019)
   - Industry leader in Spain's gaming and betting sector.
   
