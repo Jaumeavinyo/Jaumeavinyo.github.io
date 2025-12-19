@@ -28,7 +28,7 @@ The camera can lock onto the most centered enemy, with the ability to switch tar
 - **Base enemy class**
 Shared enemy base class that controls Damage reception, Pushback reactions and angle dependant hit animations
 
-- [![Game Preview](/images/MotionMatching2.gif)](https://youtu.be/ZoLtmhVu_W8)
+- [![Game Preview](/images/SoulsLikeG.gif)](https://youtu.be/ZoLtmhVu_W8)
 
 ### MistBorn Game Prototype 
 - **Description**: Movement based third person game prototype in wich i'm adapting the book's magic system to a videogame. C++ gameplay programming, design and level design. Currently adapting project to Motion Matching.
