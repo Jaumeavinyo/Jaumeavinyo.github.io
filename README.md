@@ -14,7 +14,27 @@
 
 ## 💻 Personal Projects
 
-### MistBorn Game Prototype (WIP) 
+### Souls like combat system
+  - **Description**: A Souls like combat system prototype
+    
+  - **Technologies**: Unreal Engine 5.4
+    
+  - **Features**:
+**Weapon-Dependent Animation System**
+Each weapon is its own actor and defines its own attack animations.
+Both player and enemies dynamically change their attack animations based on the weapon currently equipped.
+**Combo system**
+Evaluating the current player state, different attacks are selected (all stored inside each weapon), and combo chains can be as long as needed.
+**Input buffer system**
+Player inputs are buffered while performing uninterruptible actions.
+**Camera targetting**
+The camera can lock onto the most centered enemy, with the ability to switch targets left or right using the gamepad joystick for improved combat readability and control.
+**Base enemy class**
+Shared enemy base class that controls Damage reception, Pushback reactions and angle dependant hit animations
+
+- [![Game Preview](/images/MotionMatching2.gif)](https://youtu.be/ZoLtmhVu_W8)
+
+### MistBorn Game Prototype 
 - **Description**: Movement based third person game prototype in wich i'm adapting the book's magic system to a videogame. C++ gameplay programming, design and level design. Currently adapting project to Motion Matching.
 - **Technologies**: Unreal Engine 5.4, C++, Motion Matching
 - **Features**: Custom modular Ability system, Camera system, Ability design, movement design, level design.
