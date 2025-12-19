@@ -14,12 +14,8 @@
 
 ## 💻 Personal Projects
 
-### Souls like combat system
-  - **Description**: A Souls like combat system prototype
-    
-  - **Technologies**: Unreal Engine 5.4
-    
-  - **Features**:
+### Souls like combat system UE 5.4
+
 - **Weapon-Dependent Animation System**
 Each weapon is its own actor and defines its own attack animations.
 Both player and enemies dynamically change their attack animations based on the weapon currently equipped.
