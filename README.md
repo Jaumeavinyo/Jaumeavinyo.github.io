@@ -20,16 +20,16 @@
   - **Technologies**: Unreal Engine 5.4
     
   - **Features**:
-**Weapon-Dependent Animation System**
+- **Weapon-Dependent Animation System**
 Each weapon is its own actor and defines its own attack animations.
 Both player and enemies dynamically change their attack animations based on the weapon currently equipped.
-**Combo system**
+- **Combo system**
 Evaluating the current player state, different attacks are selected (all stored inside each weapon), and combo chains can be as long as needed.
-**Input buffer system**
+- **Input buffer system**
 Player inputs are buffered while performing uninterruptible actions.
-**Camera targetting**
+- **Camera targetting**
 The camera can lock onto the most centered enemy, with the ability to switch targets left or right using the gamepad joystick for improved combat readability and control.
-**Base enemy class**
+- **Base enemy class**
 Shared enemy base class that controls Damage reception, Pushback reactions and angle dependant hit animations
 
 - [![Game Preview](/images/MotionMatching2.gif)](https://youtu.be/ZoLtmhVu_W8)
