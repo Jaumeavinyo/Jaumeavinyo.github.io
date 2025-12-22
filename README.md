@@ -26,7 +26,7 @@ Player inputs are buffered while performing uninterruptible actions.
 - **Camera targetting**
 The camera can lock onto the most centered enemy, with the ability to switch targets left or right using the gamepad joystick for improved combat readability and control.
 - **Base enemy class**
-Shared enemy base class that controls Damage reception, Pushback reactions and angle dependant hit animations
+Shared enemy base class that controls Damage reception, Pushback reactions and angle dependant hit animations. It also uses a simple Behaviour tree to controll the base enemy behaviour.
 
 - [![Game Preview](/images/SoulsLikeG.gif)](https://youtu.be/ZoLtmhVu_W8)
 
