@@ -16,7 +16,7 @@
 ## 💻 Personal Projects
 
 ### Souls like combat system UE 5.4
-
+Video 1: https://youtu.be/ZePPMSU4fWk
 - **Weapon-Dependent Animation System**
 Engineered combat around weapon Actors in UE5.4, enabling dynamic weapon spawning for enemies and data-driven animation definition via structs (S_AttackAnims), separating logic from the character for scalability.
 - **Combo system**
