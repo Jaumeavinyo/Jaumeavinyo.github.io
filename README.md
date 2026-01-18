@@ -26,7 +26,7 @@ Built a camera targeting system using dot-product for centered enemy selection, 
 - **AI & Feedback**
 Developed reusable enemy AI with Behavior Trees, incorporating physics-based directional hit reactions and anim-notify-controlled attack commitment to create fair, telegraphed enemy behaviors.
 
-- [![Game Preview](/images/SoulsLikeG.gif)](https://youtu.be/ZoLtmhVu_W8)
+- [![Game Preview](/images/CameraLockSystem.gif)](https://youtu.be/ZePPMSU4fWk)
 
 ### MistBorn Game Prototype 
 - **Description**: Movement based third person game prototype in wich i'm adapting the book's magic system to a videogame. C++ gameplay programming, design and level design. Currently adapting project to Motion Matching.
