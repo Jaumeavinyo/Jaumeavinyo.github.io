@@ -2,6 +2,7 @@
 
 
 <img src="/images/YO.jpg" alt="Profile Picture" width="200">
+
 ## Profesional Experience
 
 ### Hexomancer (public project)
@@ -17,16 +18,13 @@
 ### Souls like combat system UE 5.4
 
 - **Weapon-Dependent Animation System**
-Each weapon is its own actor and defines its own attack animations.
-Both player and enemies dynamically change their attack animations based on the weapon currently equipped.
+Engineered combat around weapon Actors in UE5.4, enabling dynamic weapon spawning for enemies and data-driven animation definition via structs (S_AttackAnims), separating logic from the character for scalability.
 - **Combo system**
-Evaluating the current player state, different attacks are selected (all stored inside each weapon), and combo chains can be as long as needed.
-- **Input buffer system**
-Player inputs are buffered while performing uninterruptible actions.
+ Implemented a responsive combo system driven by character state and a timing-based input buffer, designed intentionally without priority to maintain high-stakes, commitment-based gameplay.
 - **Camera targetting**
-The camera can lock onto the most centered enemy, with the ability to switch targets left or right using the gamepad joystick for improved combat readability and control.
-- **Base enemy class**
-Shared enemy base class that controls Damage reception, Pushback reactions and angle dependant hit animations. It also uses a simple Behaviour tree to controll the base enemy behaviour.
+Built a camera targeting system using dot-product for centered enemy selection, with smooth switching between targets and automatic break conditions to keep combat focused and readable.
+- **AI & Feedback**
+Developed reusable enemy AI with Behavior Trees, incorporating physics-based directional hit reactions and anim-notify-controlled attack commitment to create fair, telegraphed enemy behaviors.
 
 - [![Game Preview](/images/SoulsLikeG.gif)](https://youtu.be/ZoLtmhVu_W8)
 
