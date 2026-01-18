@@ -33,12 +33,12 @@ Developed reusable enemy AI with Behavior Trees, incorporating physics-based dir
 [![Game Preview](/images/Feedback.gif)](https://youtu.be/ZePPMSU4fWk)
 
 Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
-- **Patrol System**
-  Created a Patrol system that follows the points of a user defined spline in the game world
-- **Detection System**
-  Created a state where the boss observes from the distance and starts moving towards the player to investigate. When the boss is near enought, a scream anim is played and combat starts.
-- **Combat State**
-  In combat state, the Boss not only chases the player, it also attacks the player with non blockable attacks but it also jumps backwards when it gets damage from the player (WIP, in the video it is a teleport)
+- **Spline-Based Patrol & AI State Machine**
+  Implemented a modular patrol system where the boss autonomously navigates along a user-defined spline path in the game world, providing a dynamic and customizable setup phase for the encounter. Architected a multi-phase AI state machine (Patrol -> Investigate -> Combat) to create a structured and dramatic boss introduction, controlling distinct behaviors and animations for each phase.
+- **Progressive Player Detection**
+  Designed an "Investigate" state triggered by player proximity, where the boss ceases patrolling, focuses on the player, and begins a cautious approach, building tension before combat initiation. Programmed a threshold-based combat trigger, where reaching a specific distance prompts a distinctive scream animation, formally signaling the transition to the combat phase and enhancing narrative pacing.
+- **Dynamic Combat Behaviors**
+  Created a chase-and-attack combat loop with unique "unblockable" attack properties, enforcing specific player responses like dodging, and increasing the encounter's difficulty. Prototyped a responsive damage-reaction system where the boss actively creates space by jumping backward (currently a teleport placeholder) upon taking significant damage, preventing player stun-locking and forcing engagement re-evaluation.
   
 [![Game Preview](/images/BossWIP.gif)](https://youtu.be/RqMU2L2y1io)
 [![Game Preview](/images/BossBT_WIP.gif)](https://youtu.be/RqMU2L2y1io)
