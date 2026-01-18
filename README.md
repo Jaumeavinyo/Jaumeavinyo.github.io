@@ -1,7 +1,17 @@
-# Jaume Avinyo: Programmer and Game Designer
+# Jaume Avinyo: Gameplay Programmer & Technical Designer
 
 
 <img src="/images/YO.jpg" alt="Profile Picture" width="200">
+
+I am a gameplay and animation programmer specializing in creating responsive, character-driven systems. My passion lies at the intersection of movement, combat, and animation—crafting the moment-to-moment feel that defines a game's identity.
+
+I recently completed my Master's in Game Design, focusing my expertise on advanced animation systems and character control. My portfolio showcases this through projects like a full Souls-like combat framework in Unreal Engine 5 and a movement-based magic system prototype.
+
+I thrive on technical challenges that directly shape player experience: implementing data-driven animation graphs and motion-matching systems, designing physics-informed movement, and building animation state machines that are both powerful and designer-friendly. My technical toolkit includes C++, C#, Unreal Engine 5, Unity, and expertise in 3D content pipelines (Maya/3DS Max, ZBrush, Substance).
+
+My background includes production experience on a VR title, giving me a keen understanding of full development pipelines.
+
+I am actively seeking a gameplay or animation programming role where I can contribute my technical skills and design sensibility to a team passionate about character control and game feel.
 
 ## Profesional Experience
 
