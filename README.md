@@ -44,8 +44,8 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 [![Game Preview](/images/BossBT_WIP.gif)](https://youtu.be/RqMU2L2y1io)
 
 ### MistBorn Game Prototype 
-- **Description**: Movement based third person game prototype in wich i'm adapting the book's magic system to a videogame. C++ gameplay programming, design and level design. Currently adapting project to Motion Matching.
-- **Technologies**: Unreal Engine 5.4, C++, Motion Matching
+- **Description**: Movement based third person game prototype in wich i'm adapting the book's magic system to a videogame. C++ gameplay programming, design and level design. 
+- **Technologies**: Unreal Engine 5.4, C++, Motion Matching, ABP state machines
 - **Features**: Custom modular Ability system, Camera system, Ability design, movement design, level design.
 - Code:
   - Relevant code in: UAllomanticAbility.cpp,PullAbility.cpp, AllomancyComponent.cpp
@@ -56,7 +56,7 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 [![Game Preview](/images/MistBornPlayGroundGif.gif)](https://youtu.be/rH3wEdMCtkY)
   
 ### 3D Shader
-- **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections in real-time.
+- **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections and refractions in real-time.
 - **Technologies**: ShaderToy, GLSL
 - **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, refractions and distance fog.
 - [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
@@ -65,7 +65,7 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 ### 2D Character Movement, Attack System and enemy AI
 - **Description**: A Unity project showcasing character movement and attack systems, AI enemy with FSM-driven state management.
 - **Technologies**: Unity, C#
-- **Features**: Finite State Machine for character and enemy states, camera movement, parallax backgrounds and fight collision system.
+- **Features**: Finite State Machine for character and enemy states, camera movement, parallax backgrounds and fight collision system. Everything done in C#, no use of Unity Build in tools for this prototype
 - [Watch Demo](https://youtu.be/xEKoS6ZLFqs)
 
 [![FSM Character Preview](/images/fightPrototype.gif)](https://youtu.be/xEKoS6ZLFqs)
