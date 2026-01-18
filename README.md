@@ -29,6 +29,7 @@ Built a camera targeting system using dot-product for centered enemy selection, 
 - **AI & Feedback**
 Developed reusable enemy AI with Behavior Trees, incorporating physics-based directional hit reactions and anim-notify-controlled attack commitment to create fair, telegraphed enemy behaviors.
 
+[![Game Preview](/images/HitReactions.gif)](https://youtu.be/ZePPMSU4fWk)
 [![Game Preview](/images/Feedback.gif)](https://youtu.be/ZePPMSU4fWk)
 
 ### MistBorn Game Prototype 
