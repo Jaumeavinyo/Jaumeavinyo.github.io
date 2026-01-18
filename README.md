@@ -16,7 +16,7 @@
 ## 💻 Personal Projects
 
 ### Souls like combat system UE 5.4
-Video 1: https://youtu.be/ZePPMSU4fWk
+Video 1: Combat system https://youtu.be/ZePPMSU4fWk
 - **Weapon-Dependent Animation System**
 Engineered combat around weapon Actors in UE5.4, enabling dynamic weapon spawning for enemies and data-driven animation definition via structs (S_AttackAnims), separating logic from the character for scalability.
 - **Combo system**
@@ -31,6 +31,17 @@ Developed reusable enemy AI with Behavior Trees, incorporating physics-based dir
 
 [![Game Preview](/images/HitReactions.gif)](https://youtu.be/ZePPMSU4fWk)
 [![Game Preview](/images/Feedback.gif)](https://youtu.be/ZePPMSU4fWk)
+
+Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
+- **Patro System**
+  Created a Patrol system that follows the points of a user defined spline in the game world
+- **Detection System**
+  Created a state where the boss observes from the distance and starts moving towards the player to investigate. When the boss is near enought, a scream anim is played and combat starts.
+- **Combat State**
+  In combat state, the Boss not only chases the player, it also attacks the player with non blockable attacks but it also jumps backwards when it gets damage from the player (WIP, in the video it is a teleport)
+  
+[![Game Preview](/images/BossWIP.gif)](https://youtu.be/RqMU2L2y1io)
+[![Game Preview](/images/BossBT_WIP.gif)](https://youtu.be/RqMU2L2y1io)
 
 ### MistBorn Game Prototype 
 - **Description**: Movement based third person game prototype in wich i'm adapting the book's magic system to a videogame. C++ gameplay programming, design and level design. Currently adapting project to Motion Matching.
