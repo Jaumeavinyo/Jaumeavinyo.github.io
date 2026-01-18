@@ -33,7 +33,7 @@ Developed reusable enemy AI with Behavior Trees, incorporating physics-based dir
 [![Game Preview](/images/Feedback.gif)](https://youtu.be/ZePPMSU4fWk)
 
 Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
-- **Patro System**
+- **Patrol System**
   Created a Patrol system that follows the points of a user defined spline in the game world
 - **Detection System**
   Created a state where the boss observes from the distance and starts moving towards the player to investigate. When the boss is near enought, a scream anim is played and combat starts.
