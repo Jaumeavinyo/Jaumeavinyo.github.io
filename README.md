@@ -23,6 +23,9 @@ Engineered combat around weapon Actors in UE5.4, enabling dynamic weapon spawnin
  Implemented a responsive combo system driven by character state and a timing-based input buffer, designed intentionally without priority to maintain high-stakes, commitment-based gameplay.
 - **Camera targetting**
 Built a camera targeting system using dot-product for centered enemy selection, with smooth switching between targets and automatic break conditions to keep combat focused and readable.
+
+[![Game Preview](/images/CameraLockSystem.gif)](https://youtu.be/ZePPMSU4fWk)
+
 - **AI & Feedback**
 Developed reusable enemy AI with Behavior Trees, incorporating physics-based directional hit reactions and anim-notify-controlled attack commitment to create fair, telegraphed enemy behaviors.
 
