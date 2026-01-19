@@ -20,7 +20,7 @@ I am actively seeking a gameplay or animation programming role where I can contr
 - **Technologies**: Unity, Notion, HackNPlan
 - **Features**: VR Singleplayer game. Mix between crafting your troops in a laboratory and making them fight in an autobatler type combat where you help them with potions and magic habilities
 [Game trailer coming soon](https://www.youtube.com/watch?v=tlbSwPsO1Ss&t=1s&ab_channel=Hexomancer)
-[![Game Preview](/images/hexomancer.jpg)](https://www.youtube.com/watch?v=tlbSwPsO1Ss&t=1s&ab_channel=Hexomancer){: width="50%"}
+[![Game Preview](/images/hexomancer.jpg)](https://www.youtube.com/watch?v=tlbSwPsO1Ss&t=1s&ab_channel=Hexomancer)
 ---
 
 ## 💻 Personal Projects
@@ -34,13 +34,13 @@ Engineered combat around weapon Actors in UE5.4, enabling dynamic weapon spawnin
 - **Camera targetting**
 Built a camera targeting system using dot-product for centered enemy selection, with smooth switching between targets and automatic break conditions to keep combat focused and readable.
 
-[![Game Preview](/images/CameraLockSystem.gif)](https://youtu.be/ZePPMSU4fWk){: width="50%"}
+[![Game Preview](/images/CameraLockSystem.gif)](https://youtu.be/ZePPMSU4fWk)
 
 - **AI & Feedback**
 Developed reusable enemy AI with Behavior Trees, incorporating physics-based directional hit reactions and anim-notify-controlled attack commitment to create fair, telegraphed enemy behaviors.
 
-[![Game Preview](/images/HitReactions.gif)](https://youtu.be/ZePPMSU4fWk){: width="50%"}
-[![Game Preview](/images/Feedback.gif)](https://youtu.be/ZePPMSU4fWk){: width="50%"}
+[![Game Preview](/images/HitReactions.gif)](https://youtu.be/ZePPMSU4fWk)
+[![Game Preview](/images/Feedback.gif)](https://youtu.be/ZePPMSU4fWk)
 
 Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 - **Spline-Based Patrol & AI State Machine**
@@ -50,8 +50,8 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 - **Dynamic Combat Behaviors**
   Created a chase-and-attack combat loop with unique "unblockable" attack properties, enforcing specific player responses like dodging, and increasing the encounter's difficulty. Prototyped a responsive damage-reaction system where the boss actively creates space by jumping backward (currently a teleport placeholder) upon taking significant damage, preventing player stun-locking and forcing engagement re-evaluation.
   
-[![Game Preview](/images/BossWIP.gif)](https://youtu.be/RqMU2L2y1io){: width="50%"}
-[![Game Preview](/images/BossBT_WIP.gif)](https://youtu.be/RqMU2L2y1io){: width="50%"}
+[![Game Preview](/images/BossWIP.gif)](https://youtu.be/RqMU2L2y1io)
+[![Game Preview](/images/BossBT_WIP.gif)](https://youtu.be/RqMU2L2y1io)
 
 ### MistBorn Game Prototype 
 - **Description**: Movement based third person game prototype in wich i'm adapting the book's magic system to a videogame. C++ gameplay programming, design and level design. 
@@ -61,16 +61,16 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
   - Relevant code in: UAllomanticAbility.cpp,PullAbility.cpp, AllomancyComponent.cpp
   - Code base here: [Github project](https://github.com/Jaumeavinyo/MB_Project/tree/b91dc1833abdbc8efff48860ad8ef2c4875e101b/MB_Project/Source/MB_Project)
   
-[![Game Preview](/images/MotionMatching2.gif)](https://youtu.be/Ta7l_7wt_lU){: width="50%"}
-[![Game Preview](/images/MistBornLevelGif.gif)](https://youtu.be/NfB75_VGf1M){: width="50%"}
-[![Game Preview](/images/MistBornPlayGroundGif.gif)](https://youtu.be/rH3wEdMCtkY){: width="50%"}
+[![Game Preview](/images/MotionMatching2.gif)](https://youtu.be/Ta7l_7wt_lU)
+[![Game Preview](/images/MistBornLevelGif.gif)](https://youtu.be/NfB75_VGf1M)
+[![Game Preview](/images/MistBornPlayGroundGif.gif)](https://youtu.be/rH3wEdMCtkY)
   
 ### 3D Shader
 - **Description**: Explores shader mathematics with ray intersections to render 3D shapes, hard shadows, and reflections and refractions in real-time.
 - **Technologies**: ShaderToy, GLSL
 - **Features**: 3D ray intersections, ambient/diffuse/specular lighting, hard shadows, reflections, refractions and distance fog.
 - [View the Shader](https://www.shadertoy.com/view/DdV3Dz)
-[![Shader Preview](/images/ShaderGif.gif)](https://www.shadertoy.com/view/DdV3Dz){: width="50%"}
+[![Shader Preview](/images/ShaderGif.gif)](https://www.shadertoy.com/view/DdV3Dz)
 
 ### 2D Character Movement, Attack System and enemy AI
 - **Description**: A Unity project showcasing character movement and attack systems, AI enemy with FSM-driven state management.
@@ -78,7 +78,7 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 - **Features**: Finite State Machine for character and enemy states, camera movement, parallax backgrounds and fight collision system. Everything done in C#, no use of Unity Build in tools for this prototype
 - [Watch Demo](https://youtu.be/xEKoS6ZLFqs)
 
-[![FSM Character Preview](/images/fightPrototype.gif)](https://youtu.be/xEKoS6ZLFqs){: width="50%"}
+[![FSM Character Preview](/images/fightPrototype.gif)](https://youtu.be/xEKoS6ZLFqs)
 
 ---
 
@@ -90,7 +90,7 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 - **Technologies**: Unreal Engine 5
 - [Watch the Video](https://www.youtube.com/watch?v=ShOjy29skAk) | [Visit Studio LinkedIn page](https://www.linkedin.com/company/paranoia-studios/posts/?feedView=all)
 
-[![Myrmica preview](/images/MyrmicaGif.gif)](https://www.youtube.com/watch?v=ShOjy29skAk){: width="50%"}
+[![Myrmica preview](/images/MyrmicaGif.gif)](https://www.youtube.com/watch?v=ShOjy29skAk)
 
 ### The Witcher: Ties of Destiny
 - **Description**: A four-month project developed by a team of 20 students using a custom C++ OpenGL engine.
@@ -98,7 +98,7 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 - **Technologies**: Our own c++ game engine, lua
 - [Watch the Video](https://www.youtube.com/watch?v=m5PS3PCTRs0) | [Visit the Website](https://tiesofdestiny.com/)
 
-[![Ties of Destiny Preview](/images/GifWitcher.gif)](https://www.youtube.com/watch?v=m5PS3PCTRs0){: width="50%"}
+[![Ties of Destiny Preview](/images/GifWitcher.gif)](https://www.youtube.com/watch?v=m5PS3PCTRs0)
 
 ### Mercury Engine
 - **Description**: A 3D game engine with importing, animation playback, and real-time rendering capabilities, developed in four months from scratch.
@@ -106,32 +106,32 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 - **Features**: Importing and rendering of FBX models, file system, camera culling, and skeletal animation support.
 - [Watch the Video](https://www.youtube.com/watch?v=qAw3V35vyvA) | [GitHub Repository](https://github.com/knela96/Mercury-Engine)
 
-[![Mercury Engine Preview](/images/mercuryengine.png)](https://www.youtube.com/watch?v=qAw3V35vyvA){: width="50%"}
+[![Mercury Engine Preview](/images/mercuryengine.png)](https://www.youtube.com/watch?v=qAw3V35vyvA)
 
 ### Order 227: Not a Step Back
 - **Description**: A only c++ RTS game developed by a seven-member team using SDL. I served as C++ programmer and team manager, overseeing gameplay mechanics and strategic decisions.
 - [Watch the Video](https://www.youtube.com/watch?v=2uebz2vIlOg) | [GitHub Repository](https://cutt.ly/Dh0o84m)
 
-[![Order 227 Preview](/images/Order227Gif.gif)](https://www.youtube.com/watch?v=2uebz2vIlOg){: width="50%"}
+[![Order 227 Preview](/images/Order227Gif.gif)](https://www.youtube.com/watch?v=2uebz2vIlOg)
 
 ### Almost Hero
 - **Description**: A only C++ rhythm game inspired by Guitar Hero, completed in three weeks.
 - [Watch the Video](https://youtu.be/vuUG-xygVik) | [GitHub Repository](https://cutt.ly/8h0o4MY)
 
-[![Almost Hero Preview](/images/AlmostHeroGif.gif)](https://youtu.be/vuUG-xygVik){: width="50%"}
+[![Almost Hero Preview](/images/AlmostHeroGif.gif)](https://youtu.be/vuUG-xygVik)
 
 ### Last Resort
 - **Description**: A only C++ recreation of a level from NeoGeo’s "Last Resort," completed with a team of three.
 - [Watch the Video](https://cutt.ly/2h0o5U4) | [GitHub Repository](https://cutt.ly/Dh0pqJL)
 
-[![Last Resort Preview](/images/LastResortGif.gif)](https://cutt.ly/2h0o5U4){: width="50%"}
+[![Last Resort Preview](/images/LastResortGif.gif)](https://cutt.ly/2h0o5U4)
 
 ### Easy Neural Networks
 - **Description**: A prototype tool enabling to create a neural network from scratch to understand its internal functioning
 - **Technologies**: C++ (prototype stage)
 - [Watch the Video](https://www.youtube.com/watch?v=vVJ6H56kYGs)
 
-[![Easy Neural Networks Preview](/images/Screenshot_1.png)](https://www.youtube.com/watch?v=vVJ6H56kYGs){: width="50%"}
+[![Easy Neural Networks Preview](/images/Screenshot_1.png)](https://www.youtube.com/watch?v=vVJ6H56kYGs)
 
 ---
 
@@ -141,7 +141,7 @@ Video 2: Boss fight WIP https://youtu.be/RqMU2L2y1io
 - **Description**: A resource management game developed in a 24-hour game jam. Players balance production and pollution to gain resources without damaging planets.
 - [Watch the Promo Video](https://www.youtube.com/watch?v=ZdIgT6x-kOo&t=75s&ab_channel=RogerLeonBorras) | [Play on Itch.io](https://lostsignalstudio.itch.io/project-rebirth)
 
-[![Project Rebirth Preview](/images/ProjectRebirth.png)](https://www.youtube.com/watch?v=ZdIgT6x-kOo&t=75s&ab_channel=RogerLeonBorras){: width="50%"}
+[![Project Rebirth Preview](/images/ProjectRebirth.png)](https://www.youtube.com/watch?v=ZdIgT6x-kOo&t=75s&ab_channel=RogerLeonBorras)
 
 ---
 
